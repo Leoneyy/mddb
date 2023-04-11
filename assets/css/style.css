@@ -54,7 +54,7 @@
   --color-primary-4: #5264F3;
   --color-primary-5: #B00F0F;
   --color-primary-6: #41DF0A;
-  --color-primary-alta: #FFECEC;
+  --color-primary-alta: #EAF5E6;
   --color-secondary:#111D5E;
   --color-terciary:#90FF03;
   --color-gray: #f6f6f6;
@@ -16700,7 +16700,7 @@ li.has-droupdown {
   color: var(--color-primary);
 }
 .social-wrapper-two a:hover::after {
-  background: #ffecec;
+  background: #EAF5E6;
   box-shadow: 0px 10px 30px rgba(33, 5, 5, 0.05);
 }
 
@@ -17033,7 +17033,7 @@ li.has-droupdown {
   color: var(--color-primary-4);
 }
 .home-violet .rts-sidebar-menu-desktop .body-mobile .social-wrapper-two a:hover::after {
-  background: #ffecec;
+  background: #EAF5E6;
   box-shadow: 0px 10px 30px rgba(33, 5, 5, 0.05);
 }
 
